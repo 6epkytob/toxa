@@ -1,0 +1,53 @@
+@font-face{
+    font-family: mc;
+    src: url(mc.ttf);
+   }
+@font-face{
+    font-family: minecraft;
+    src: url(minecraft.ttf); }
+
+
+
+.but{   
+    background-color: #6dad43;
+    font-family: minecraft;
+    border-radius: 13px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    box-shadow: 0 5px 15px 0 #6dad43;
+    transition: 0.5s;
+} 
+
+
+
+
+
+
+
+body{
+    background-color: #3b3b3b;
+    text-align: center;
+    align-items: center;
+    padding-top: 70px;
+    color: #cccccc;
+    line-height: 2; 
+}
+img{
+    width: 200px;
+    height: 200px;
+} 
+	
+.cz{font-family: mc;}
+.txt{font-family: minecraft;}
+
+
+
+
+.link{color: #79553a;}
+a{color: #cccccc; text-decoration: none; font-weight: 900;}
+a:visited{color: #cccccc;}
+a:hover{color: #cccccc;}
